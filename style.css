@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(244, 250, 246);
+    color: rgb(58, 98, 134);
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(58, 98, 134);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(58, 98, 134);
+}
+
+p {
+    color: rgb(58, 98, 134);
+}
+
+.box{
+    background:  rgb(193, 203, 211);
+    width: 300px;
+
+    margin: 50x;
+    border-width: 7px;
+    border-color: azure;
+    border-style: ridge;
+
+}
+
+.project{
+    background: rgb(193, 203, 211);
+    width: 300px;
+
+    margin: 50x;
+    border-width: 7px;
+    border-color: azure;
+    border-style: ridge; 
+}
+.photo{
+    width: 254px;
+    border-width: 2px;
+    border-color: azure;
+    border-style: ridge; 
+}
